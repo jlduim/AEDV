@@ -4,7 +4,7 @@ Repositório contendo as soluções para a A2 da disciplina Análise Exploratór
 
 Equipe: Fernanda Luísa Silva Gomes e João Lucas Duim
 
-Professora: Asla Medeiros e Sá
+Professora: [Asla Medeiros e Sá](https://emap.fgv.br/corpo-docente/asla-medeiros-sa)
 
 Tema: Queimadas no Brasil
 
